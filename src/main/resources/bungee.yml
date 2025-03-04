@@ -1,0 +1,5 @@
+name: TimeBungee
+version: 1.0
+main: nl.multitime.timeBungee.TimeBungee
+author: MultiTime
+description: A BungeeCord plugin with team chat, friend system and stream announcements
